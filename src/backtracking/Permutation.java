@@ -1,5 +1,5 @@
 package backtracking;
-
+//time complexity n*n!
 public class Permutation {
     public static void printPermutation(String str, String perm , int idx){
         if(str.length()==0){
